@@ -1,2 +1,4 @@
 # hello-world
-my first repoeitory
+my first repository
+
+Hi, My name is Olga. I learn using GitHub!
